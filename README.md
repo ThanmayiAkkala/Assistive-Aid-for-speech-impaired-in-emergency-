@@ -14,15 +14,4 @@ through a custom-trained machine learning model to classify each input
 video frame into accurate text data. The displayed data can indicate pain,
 accident and other gestures using sign language. The proposed system
 provides real-time feedback to the user by highlighting the detected
-gesture and displaying a corresponding message. The training and
-prediction of hand gestures are performed by deep neural network
-models, and the performance is measured with LSTM model (Long
-Short- Term Memory), dense, and dropout layer models. The results of
-the proposed work demonstrate the comparative results in detecting and
-recognizing the emergency gestures taken as samples under study, which
-gives an accuracy of above 90%. For LSTM and dense model, the system
-reports an accuracy over 95% with 30 samples, whereas after adding
-dropout ,the accuracy is 94% with 50 samples .Therefore, this project
-provides a useful tool to understand the communication of sign language
-by common people and aid speech-impaired people in emergency
-situations, thereby improving humans’ ability to respond quickly .
+gesture and displaying a corresponding message.
